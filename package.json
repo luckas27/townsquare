@@ -20,7 +20,7 @@
     "vue": "^2.3.3",
     "vue-template-compiler": "^2.6.11",
     "vuex": "^3.5.1",
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "^4.4.6",
